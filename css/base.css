@@ -46,7 +46,6 @@ ul {
 
 #ideas {
   margin: 30px 220px;
-  text-align: center;
   border: solid 2px black;
   border-radius: 15px;
   width: 55%;
@@ -55,4 +54,8 @@ ul {
 
 h3 {
   margin: 0 5px;
+}
+
+.center-text {
+  text-align: center;
 }
