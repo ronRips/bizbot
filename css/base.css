@@ -1,0 +1,58 @@
+#border-all {
+  height: 1200px;
+  margin: 5px 20px;
+  border: solid 2px black;
+  border-radius: 2px;
+}
+
+.row {
+  margin: 70px 0;
+  height: 10px;
+}
+
+ul {
+  margin-block-start: 10px;
+}
+
+#profile {
+  margin: 0 70px;
+  float: right;
+  height: 100px;
+  width: 100px;
+  line-height: 100px;
+  border: solid 2px black;
+  border-radius: 100px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#h-title {
+  float: right;
+  text-align: center;
+  border: solid 2px black;
+  border-radius: 5px;
+  width: 50%;
+  font-size: 20px;
+}
+
+#solutions {
+  margin: 0 244px;
+  text-align: center;
+  border: solid 2px black;
+  border-radius: 5px;
+  width: 50%;
+  font-size: 20px;
+}
+
+#ideas {
+  margin: 30px 220px;
+  text-align: center;
+  border: solid 2px black;
+  border-radius: 15px;
+  width: 55%;
+  font-size: 20px;
+}
+
+h3 {
+  margin: 0 5px;
+}
